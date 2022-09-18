@@ -1,6 +1,12 @@
 <? require_once("header.php"); ?>
-<h1> Please enter your complete name and email </h1>
+<?php
+function writeMsg() {
+  echo "Hello world!";
+}
 
+writeMsg();
+?>
+<h1> Please enter your complete name and email </h1>
 <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
 E-mail: <input type="text" name="email"><br>
