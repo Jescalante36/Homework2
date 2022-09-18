@@ -1,7 +1,7 @@
 <? require_once("header.php"); ?>
 <?php
 function writeMsg() {
-  echo "Hello world!";
+  <h1>Hello world!"</h1>;
 }
  writeMsg();
 ?>
