@@ -1,7 +1,7 @@
 <? require_once("header.php"); ?>
 <?php
 function writeMsg() {
-  <h1>Hello world!"</h1>;
+  echo "Created by Juan Escalante"</h1>;
 }
  writeMsg();
 ?>
