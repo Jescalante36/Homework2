@@ -1,5 +1,5 @@
 <? require_once("header.php"); ?>
-<h1> My website </h1>
+<h1> Please enter your comple name and email </h1>
 
 <form action="handlepost.php" method="post">
 Name: <input type="text" name="name"><br>
