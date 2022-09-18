@@ -4,7 +4,6 @@ function CreateTitle() {
   echo "Created by Juan Escalante";
 }
  CreateTitle();
- CreateTitle();
 ?>
 
 <h1> Please enter your complete name and email </h1>
