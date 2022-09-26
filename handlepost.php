@@ -1,7 +1,6 @@
 
 
 <? require_once("header.php"); ?>
-<?php
   <body>
     <h1>Post response</h1>
     Welcome <?php echo $_POST["name"]; ?><br>
